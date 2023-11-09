@@ -9,14 +9,14 @@
 
 * Identificar Archivo Main.py 📃.
 * Ejecutar el archivo Main 🖱️.
-* Se te mostrará en Consola el Menu Principal con las siguientes opciones:
-    * Crear Pila 💡.
-    * Crear Cola 💡.
-    * Salir ⬅️.
-* Al indicar cualquiera de las dos primeras, accederas a otro Menu ya especifico de cada estructura, que contendra lo siguiente:
-    * Apilar o Encolar ✅.
-    * Desapilar o Desencolar ❌.
-    * Imprimir 🖨️.
-    * Modificar Estructura ✏️.
-    * Es vacia ⭕.
-    * Salir ⬅️.
+* :
+    *  💡.
+    *  💡.
+    *  ⬅️.
+* :
+    *  ✅.
+    *  ❌.
+    *  🖨️.
+    *  ✏️.
+    *  ⭕.
+    *  ⬅️.
